@@ -1,0 +1,23 @@
+Conceptos
+1. // Variable
+// Es un nombre para represenatr un valor de un dato. 
+// ejemplo: Si tenemos un porgrama que suma 2 numeros: lo representamos asi: Valor#1, valor#2 
+// de esa manera lo respresentamos como nombre de variable.
+
+2.// Strings 
+//Te permite almacenar un conjunto de caracteres ejemplo: una palabra o muchas palabras.
+'hola';
+'hola' + ' como va todo?';
+
+3. // Argunmento: un valor que se envia
+// retunr: Es un valor que Retorna. ejemplo: 2 + 1 retorna 3
+// if: sirven para controlar la respuesta de una funcion: ejemplo:
+
+// if (condicion){
+// intrucciones1;
+// }
+// else{
+// instrucciones 2;
+// }
+//si la condicion dentro del (parentesis) cumple o no cumple, sigue las intruccion para ambos casos.
+// Valores booleanos: Son los valores: Verdadero y Falso
