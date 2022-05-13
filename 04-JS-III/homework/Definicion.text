@@ -2,4 +2,5 @@ Conceptos Arrays:
 Son elementos/lista ordenados uno al lado del otros seprados, y DEFINIENDOSE con []. Estos pueden tener cualquier tipo de datos.
 
 Ejemplo: 
-var array = [1, 'armin', null, funtion(), [1, 3, 6]]
+var array = [1, 'armin', null, funtion(), [1, 3, 6]
+Gracias!
